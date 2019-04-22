@@ -6,7 +6,13 @@
 python main.py --pattern train  
 python main.py --pattern test   
 
-# data
-Omniglot see reference paper and code  
+# Data
+Omniglot see reference paper and code    
 
-# 
+# Env
+python 3.5  
+tensorflow 1.3  
+novamind 0.0.2(pip)  
+
+# Results on omn datasets
+![meta](https://raw.githubusercontent.com/duanyzhi/Meta-Networks/master/data/document/acc.png)  
